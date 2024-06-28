@@ -1,2 +1,4 @@
 # learning-word2vec
-This repository contains a collection of handon exercises done while learning word2vec, an embedding library.
+
+This repository contains a collection of handson exercises done while learning 
+word2vec, an embedding library.
